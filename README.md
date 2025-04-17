@@ -34,7 +34,8 @@ Each loader is represented by a single `<i>` element with a unique class (e.g., 
 You can adjust the **color**, **size**, or **animation duration** in the CSS to match your project theme.
 
 ## 📸 Preview
-You can record and upload a short **GIF** or **video preview** here for better visibility.
+[🎥 Click here to watch the preview](./loader.mp4)
+
 
 ## 🤝 Contributing
 Want to add more loaders or improve the design?  
