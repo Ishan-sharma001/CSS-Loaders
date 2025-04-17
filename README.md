@@ -34,7 +34,7 @@ Each loader is represented by a single `<i>` element with a unique class (e.g., 
 You can adjust the **color**, **size**, or **animation duration** in the CSS to match your project theme.
 
 ## 📸 Preview
-[🎥 Click here to watch the preview](./loader.mp4)
+[🎥 Click here to watch the preview](https://css-loaders-blush.vercel.app/)
 
 
 ## 🤝 Contributing
